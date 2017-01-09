@@ -4,7 +4,7 @@
 
 ---
 
-Envie qualquer música no formato OGG para este repositório e ela entrará na lista das músicas escolhidas pra tocar no lobby da estação. O nome da música não pode conter nenhum caractere espacial ou espaço.
+Envie qualquer música no formato OGG (utilize http://audio.online-convert.com/convert-to-ogg para converter) para este repositório e ela entrará na lista das músicas escolhidas pra tocar no lobby da estação. O nome da música não pode conter nenhum caractere espacial ou espaço.
 
 # Tutorial
 
