@@ -4,7 +4,7 @@
 
 ---
 
-Envie qualquer música no formato OGG para este repositório e ela entrará na lista das músicas escolhidas pra tocar no lobby da estação. Tente manter as músicas menores do que 5 MB.
+Envie qualquer música no formato OGG para este repositório e ela entrará na lista das músicas escolhidas pra tocar no lobby da estação. O nome da música não pode conter nenhum carácter espacial ou espaço.
 
 # Tutorial
 
